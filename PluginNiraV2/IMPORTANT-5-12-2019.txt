@@ -1,0 +1,5 @@
+Trés important de voir le code dans le fichier nira.php ligne : 10->22
+ligne 34
+                                                   cléf à remplacé d'ici(=)                                                                         à ici(&)
+    wp_enqueue_script( 'paypal', 'https://www.paypal.com/sdk/js?client-id=AQv7X0Z2ePVL2r4QWbrWbzdg3Brgp5TatF6utUEMe-usVCtnlwfFKCrQIGXjNdSFSIS0VG7lUIPsbeoP&currency=EUR&locale=fr_BE&disable-funding=credit,sofort',array(),null);
+et dans init.php qui est dans le dossier include ligne 29 et ligne 30
